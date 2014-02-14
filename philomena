@@ -1,0 +1,30 @@
+0:10	Martin Sixsmith really was a correspondent for BBC. He was based in places like Russia, the U.S., Belgium Brussels and Poland before leaving the network to work for newly elected Tony Blair in 1997.
+
+0:13	Sixsmith resigned from the Blair administration after a controversial comment he made about 9/11 in an email was leaked. He said, “Today is a good day to bury bad news.”
+
+0:20	Philomena’s daughter was not a waitress, but a financial advisor. It was another guest at the party who tipped Sixsmith off about Philomena’s story. 
+
+0:36	Philomena hadn’t discussed her secret with anyone in 50 years. 
+
+0:53	Sixsmith indeed used Philomena’s real name in his book about her, entitled “The Lost Child of Philomena Lee.”
+
+1:02	Philomena Lee gave birth to her son, Anthony, in an Irish convent as an unwed teenager in July 1952. She then lived and worked in the convent while the nuns cared for her son and the children of other unwed young women. 
+
+1:07	Ireland had many convents like this one, referred to as Magdalene Laundries. The mothers worked long hours doing menial labor with little access to their children. The last one in Ireland closed in 1996.
+
+1:15	The Catholic Church advertised these children as “orphans,” and many were adopted by American families in the 1950s and 60s. The Catholic Church charged money for the children, causing scandal for both the church and Irish government. 
+
+1:23 	Philomena’s son Anthony was adopted by an American couple, Doc and Marge Hess, 
+when he was three years old. They renamed him Michael. He grew up in St. Louis. 
+
+1:29	Philomena and Sixsmith never actually traveled to the U.S. together to find her son. The majority of their research was done in Ireland. 
+
+1:33	The real Philomena Lee told The Post, “I was a bit of a dumb cluck in the film. Some of those things I didn’t say. But it had to bring a bit of laughter into it. Because it’s so sad, you know.” (Good to pair with comment about Big Mama’s House.)
+
+1:45	Michael Hess grew up to attend George Washington University Law School, and later became chief legal counsel to the Republican National Committee, and a key member of the Reagan and George H.W. Bush administrations.
+
+1:52	Michael died of AIDS in 1995. He was gay, but kept it largely a secret in his professional life.
+
+1:57	Sixsmith was BBC correspondent in Washington during the presidency of George H.W. Bush and in his book recalls meeting a “senior White House official named Michael Hess.”  He then used his Washington contacts to make the connection. Unable to verify if Sixsmith ever did meet Michael at the White House. (Glenn?)
+
+2:09	Michael actually returned to Ireland twice during his life to locate his mother. The nuns told him she had abandoned him, when in reality, the church forced Philomena to sign away her rights to her son.
