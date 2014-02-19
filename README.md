@@ -1,7 +1,7 @@
 truth-trailers
 ==============
 
-Testing out github's prose editing feature with Truth Teller trailer scripts
+Testing out github's prose editing feature with Truth Teller trailer scripts.
 
-Hm, .html files didn't work, so testing again with this .md file. We shall see.
+.html files don't work. You have to use a .md file to see the 'Rendered' option (instead of just source diffs)
 
