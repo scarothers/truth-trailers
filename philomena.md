@@ -1,38 +1,31 @@
-0:10	Martin Sixsmith really was a correspondent for the BBC, based in Russia, the U.S., Belgium and Poland.
-He left the network in 1997 to work for newly elected Tony Blair.
+0:09	Martin Sixsmith worked  the BBC until 1997.
 
-0:13	Sixsmith resigned from the Blair administration after someone leaked a comment he made.
+0:11	He left to work for Tony Blair, 
 
-In an email about 9/11, he’d said: “Today is a good day to bury bad news.”
+0:13	But resigned after someone leaked a comment he made about 9/11:
 
-0:20	 In the film, Philomena’s daughter tips Sixsmith off about Philomena’s story. 
+“Today is a good day to bury bad news.”
+
+0:20	 In the film, Philomena Lee’s daughter tips Sixsmith on the story. 
 
 In reality, it was another guest at the party. 
 
-0:36	Philomena hadn’t discussed her secret with anyone in 50 years. 
+0:37	Lee gave birth to her son, Anthony, in an Irish convent as an unwed teenager in 1952. 
 
-0:47 	Philomena’s daughter was a financial advisor, not a waitress.
+0:47 	Ireland had many of these convents, where mothers worked with little access to their children.
 
-0:53	Sixsmith indeed used Philomena’s real name in his book about her. 
-It is titled “The Lost Child of Philomena Lee.”
+0:48	The Catholic Church sold and advertised these children as “orphans.”
 
-1:02	Philomena gave birth to her son, Anthony, in an Irish convent as an unwed teenager in 1952. 
+0:58	Sixsmith titled his book “The Lost Child of Philomena Lee.”
 
-She lived and worked in the convent while the nuns cared for her son,
- and the children of other unwed young women. 
+1:04	Americans Doc and Marge Hess adopted Anthony when he was 3. 
 
-1:07	Ireland had many convents like this one, referred to as Magdalene Laundries. 
-The mothers worked long hours doing menial labor with little access to their children.
-The last one in Ireland closed in 1996.
+1:17	They renamed him Michael, and he grew up in St. Louis. 
 
-1:15	The Catholic Church advertised these children as “orphans.” 
-Many were adopted by American families in the 1950s and ‘60s. 
-The Church charged money for the children, causing scandal for it and the Irish government. 
+1:20	Lee never traveled to the U.S. to find her son. 
 
-1:23 	When Philomena’s son Anthony was three years old, 
-he was adopted by an American couple, Doc and Marge Hess. 
-
-They renamed him Michael. He grew up in St. Louis. 
+1:36	Lee told The Washington Post,
+“I was a bit of a dumb cluck in the film.” 
 
 1:29	Philomena and Sixsmith never made a trip to the U.S. together to find her son. 
 The majority of their research was done in Ireland. 
@@ -42,17 +35,12 @@ The majority of their research was done in Ireland.
 “But it had to bring a bit of laughter into it. “
 “Because it’s so sad, you know.” 
 
-1:45	Michael Hess grew up to attend George Washington University Law School. 
-He later became chief legal counsel to the Republican National Committee 
-And was a key member of the Reagan and George H.W. Bush administrations.
+1:47	Michael Hess died of AIDS in 1997.
 
-1:52	 Michael died of AIDS in 1995.
- He was gay, but kept it largely a secret in his professional life.
+1:57	Hess was a key member of the Reagan and George H.W. Bush administrations. 
 
-1:57	Sixsmith was BBC correspondent in Washington during the presidency of George H.W. Bush. 
-In his book he recalls meeting a “senior White House official named Michael Hess.”  
-He then used his Washington contacts to make the connection. 
+2:00	Sixsmith claims he met Hess while at the BBC. 
 
-2:09	Michael actually returned to Ireland twice during his life to locate his mother.
+2:09	Hess went to Ireland twice to find his mother.
  The nuns told him she had abandoned him. 
-In reality, the church forced Philomena to sign away her rights to her son.
+In reality, the church forced her to sign away her rights to her son.
