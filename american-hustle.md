@@ -1,48 +1,36 @@
-0:08	Melvin Weinberg, convicted con artist. 
+0:09	Melvin Weinberg was con artist hired by the FBI for the ABSCAM operation from 1978-80.
 
-            He sold fake loans.
+0:13	The goal was to catch politicians accepting bribes.
 
-0:18	The FBI hired him [hired? or forced to deal or face prison?] to help catch politicians taking bribes. 
+0:18	Jesus said no such things. 
 
-            The operation was known as Abscam. 
+0:23	The character of Richie DiMaso is based on two FBI agents. 
 
-0:23	Richie DiMaso is based on two FBI agents. 
+0:35	Evelyn Knight was involved never involved with ABSCAM, 
 
-0:28 	Politicians were caught accepting cash bribes for: 
-casino licenses, 
-streamlined immigration, 
-granting political asylum, and 
-investment schemes. 
+and she was actually English. 
 
-0:35	Weinberg’s mistress, Evelyn Knight, was part of many of his scams -- but not Abscam. 
-
-Oh, and she was actually English. 
-
+0:41 	His comb-over wasn’t that elaborate
 
 0:48	Carmine Pulito is a stand in for Camden mayor Angelo Errichetti. 
 
-He offered bribes and took kickbacks from congressmen who offered favors.
-
-[Was he a well-meaning guy caught in a well-meaning hustle as portrayed in the movie, or was he just a crook?]
-
 0:56	Cynthia Marie Weinberg was much older than depicted in the film. 
 
-After she learned about his mistress, she accused her husband of taking payoffs and profiting from ABSCAM. [confusing. not sure what we’re saying.]
+1:07	[a lorem ipsum line appears here that we obviously have to take out]
 
-(She eventually committed suicide.)
+1:15	Three FBI agents played the role of one sheik.
 
-1:15	The fake sheik was played by three FBI agents, 
-including an American who spoke no Arabic.
+1:27	Before working for the FBI, Weinberg sold fake loans. 
 
-1:30	Weinberg invented dozens of scams for the FBI besides Abscam. 
+1:30	He invented dozens of scams for the FBI.
 
-1:39	For the first time in American history, 
-the FBI videotaped government officials accepting bribes. 
-
-1:49	The money exchanges took place at the home of a Washington Post reporter who unknowingly had rented it to the FBI.
-
-1:53	Errichetti was convicted of federal bribery charges.
-He served about 3 years in prison.
+1:37	Politicians were caught accepting cash bribes for: 
+	casino licences
+	streamlined immigration
+	granting political asylum
+	investment schemes
+	
+1:53	Errichetti was convicted of federal bribery and served about 3 years in prison.
 
 1:59	Not to mention…  
 six members of the House of Representatives, 
@@ -50,5 +38,3 @@ one senator
 and more than a dozen others were convicted. 
 
 2:11 	Many scenes were invented for dramatic effect. This is one of them. 
-
-Weinberg earned $150,000 for his work on ABSCAM. 
