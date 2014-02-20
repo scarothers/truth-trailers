@@ -1,28 +1,37 @@
-0:14	Captain Phillips received warnings about recent hijackings near Somalia, but chose to keep the same course.
+0:14	Captain Phillips received warnings about recent hijackings near Somalia, 
+but chose to keep the same course.
 
-0:27	The ship’s name was Maersk Alabama, a container ship traveling around the horn of Africa. (The movie was filed off the coast of Malta using a virtually identical ship called the Alexander Maersk.)
+0:23	The ship’s name was Maersk Alabama. 
+It was a container ship traveling around the horn of Africa. 
 
-0:36	Phillips called the United Kingdom Marine Trade Operations (UKMTO), and according to Phillips they in fact said it was probably just fisherman, not pirates.
+0:36	According to Phillips, when he called the United Kingdom Marine Trade Operations,
+they in fact said it was probably just fisherman, not pirates.
 
-0:45	The Somali pirates--just four--successfully boarded the ship after two tries.
+0:45	Just four Somali pirates successfully boarded the ship after two tries.
 
-0:50	Eleven members of the ship’s crew are now suing the ship’s owners for nearly $50 million, saying that despite warnings Captain Phillips recklessly took them too close to waters controlled by pirates. the maker of the vessel.
-Many say Captain Phillips was actually a poor leader in a time of crisis.
+0:50	Eleven crew members are now suing the ship’s owners for nearly $50 million.
 
-1:03	Much of the dialogue heard he was taken directly from the real Captain Richard Phillips book, “A Captain’s Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea.”
+0:54	They say that despite warnings, Captain Phillips 
+recklessly took them too close to pirate-controlled waters. 
+
+1:03	Much of the dialogue here was taken directly from Captain Richard Phillips’ book.
 
 1:07	The real Phillips has said that he does not think of himself as a hero.
 
-1:11	The Somali pirates’ leader was this guy - Abduwali Muse.
+1:11	The Somali pirates’ leader was this man, Abduwali Muse.
 
-1:24	Phillips did not yell “I got to get them off this ship” and did not offer to give himself up for his crew. He considered himself already a hostage and stayed on the lifeboat for nearly five days. was taken hostage by a group of the pirates on a lifeboat.
-He was on the boat for 4 days.
+1:28	Phillips did not really yell “I got to get them off this ship,”
+and did not offer to give himself up for his crew. 
 
-1:45	The Navy rushed to the scene on a ship, Brainbridge, to negotiate with the pirates and carry out a rescue mission.
+1:37 	He considered himself already a hostage
+and stayed on the lifeboat for nearly five days. 
+
+1:45	The Navy rushed to the scene to negotiate
+with the pirates and carry out a rescue mission.
 
 1:56	Phillips did not write letters to his family while in captivity. 
 
 2:07	Muse was 18 years old during these events.
 He was sentenced to 33 years in prison.
 
-2:14	The Navy came to rescue Phillips. Members of SEAL Team Six, the same team that took out Osama bin Laden, killed three of the four pirates holding him hostage. 
+2:14	Members of SEAL Team Six killed three of the four pirates holding Phillips hostage. 
