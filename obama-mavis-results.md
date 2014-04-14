@@ -1,215 +1,215 @@
-"<a href=\"#\" confidence=\"0\" rel=\"1939:10790\">The monthly city.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"10790:13700\">Six months ago today.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"13700:16700\">A big part of the affordable care act kicked in</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"16700:23080\">as healthcare dot gov and state insurance marketplace is white-white.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"23080:26450\">Millions of americans finally had the same chance the</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"26450:29780\">quality affordable health care.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"29780:34010\">And, the peace of mind comes everybody else.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"34010:37880\">Last night the first open enrollment period under this law</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"37880:42540\">canyoneering and despite several lost weeks out of the</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"42540:45510\">because the problems with website.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"45510:46850\">Seven-point-one</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"46850:50540\">million americans have now signed up for five hhh.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"50540:74750\">Plan through the marketplaces.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"74750:75250\">Showroom.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"86730:91600\">Driven more botswana so anybody who was line because you</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"91600:97820\">demand over the past few days can still go back and finish</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"97820:100510\">Seven-point-one million.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"100510:103860\">That's on top of the more than three million young adults</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"103860:108530\">insurance under this law by staying other families point.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"108530:110650\">That's on top of the millions</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"110650:117590\">gain access through medicaid expansion and the children's health insurance program.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"117590:118690\">Making</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"118690:123150\">affordable coverage available to all americans including</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"123150:126880\">with pre-existing conditions until now unimportant</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"126880:132680\">both for the small.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"133790:138690\">In the first six months we've taken a big step forward.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"138690:142780\">And, just as importantly this law is bringing greater security to</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"142780:147090\">americans who already have coverage.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"147090:151760\">Because the affordable care act hundred-million americans free preventive care like</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"151760:163920\">contraceptive care under existing points.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"163920:166720\">Because of this long nearly eight million seniors</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"166720:171500\">almost ten billion dollars on their medicine because we</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"171500:173680\">a gaping hole in</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"173680:183170\">prescription drug plan were closing the donut hole.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"183170:185200\">And, because of this law a whole lot of</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"185200:190180\">families won't be driven into bankruptcy my a serious illness because the affordable care act from</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"190180:196720\">mans your insurance replacing dollar limits on the they provide.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"196720:201160\">These are all benefits that have been taking place.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"201160:204190\">For a whole lot of families out there who don't realize.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"206560:210050\">Neighbor benefits.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"210050:213360\">But, the bottom line under this</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"213360:218010\">The share of americans with insurance is up and the growth of</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"218010:232270\">costs is down and that's good for middle class and that's good</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"232270:238800\">I don't mean that all the problems health-care have been solved rep.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"238800:242390\">Premiums are still rising for families who have insurance what do you</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"242390:246540\">through your employer or you on your own that's been through every</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"246540:250630\">year for decades but so far.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"250630:254560\">Both premiums have risen more slowly since the affordable care act</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"254560:259769\">past than anytime in the past fifty years.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"259769:261259\">It's also true that despite this</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"261259:265389\">million americans are uncovered in part because</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"265389:270089\">governors in some states for political reasons have deliberately</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"270089:274250\">refused to expand coverage to under this wall.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"274250:276370\">We're work on that.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"276370:287410\">Will work to get more americans covered with each passing year?</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"287410:288470\">And, remains</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"288470:293240\">true that you'll still after changer coverage if you graduate from college</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"293240:298190\">return twenty six-years-old remover switch jobs or havoc trial.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"298190:301680\">Just like you did before the affordable care act was passed.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"302700:305040\">You-can now botha healthcare dot gov and use</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"305040:311400\">year-around when circumstances in your life change.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"311400:316740\">So, now the affordable care act and completely fixed broken health care system.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"316740:321330\">As long as made our health care system a lot better.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"321330:328060\">Well, that that's.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"328060:331150\">And, told because of this millions of our fellow citizens</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"331150:337720\">nova economic security of health insurance when just a few years ago.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"337720:341270\">And, that's something to be prada.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"341270:343030\">Regardless your politics</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"343030:347160\">feelings about me or your feelings about this law.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"347160:352520\">That's something that's good for our economy that's good for country.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"352520:356420\">There's no good reason to go back.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"356420:358680\">give you a sense of what this changes</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"358680:366150\">for million of our fellow americans just give you examples.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"366150:369860\">From beach california always make sure covers family</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"369860:373790\">private market by pre-existing medical conditions</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"373790:379520\">was over thirty thousand dollars.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"379520:382470\">The affordable care act and change that.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"382470:386490\">See if you have a pre-existing condition like being a cancer survivor</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"386490:388800\">suffer chronic pain from a tough job or</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"388800:394060\">even if you've just been charged more for being a woman.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"394060:397490\">You can no longer be charts more than anybody else.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"397490:400010\">So, this your the casey families premiums will</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"400010:412080\">pap from over thirty thousand dollars to undermine thousand-dollars.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"412080:413320\">And, I know that's because</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"416960:420450\">These savings almost offset the cost of</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"420450:424410\">daughters first-year in college I'm a big believer in</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"424410:428870\">this legislation additives rules a lot of complexity in frankly fear from my</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"428870:436180\">life please keep fighting for the aca.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"436180:438670\">in the bartender</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"438670:444020\">nola pennsylvania I think most adventurewear bartender that's</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"444020:447810\">usually doesn't oper health care.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"447810:449040\">For years.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"449040:450890\">went uninsured or under</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"450890:456910\">often getting some healthcare tyra local planter.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"456910:460270\">November she bought a plan or marketplace.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"461670:463780\">In january and illness center,</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"463780:468150\">center the hospital and because plan covered</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"468150:471050\">she won of otherwise been able to afford.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"472230:479490\">doctor discovered that she also had ovarian cancer and gave her a chance to meet us.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"479490:482480\">So, she wrote me a letter to she said.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"482480:486650\">It's going to be along top to kill this cancer.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"486650:491400\">I can walk that knowing insurance isn't an issue I won't be refused</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"491400:496250\">care I hope to send a follow-up letter and a few months saying I'm free and clear on</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"496250:500960\">this disease but until then I know I will be fighting just as you</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"500960:502540\">have been.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"502540:509370\">Fighting for my wife is working american</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"509370:514449\">And, after her first one was under new insurance plan.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"514449:520570\">Marla marine from fort collins colorado shared with me what meant to her.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"520570:521590\">After using my</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"521590:528810\">insurance for the first-time you probably heard my sigh of relief from white house.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"528810:531840\">I felt like a human being again.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"531840:536700\">I felt that I had value.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"536700:541040\">That's what the affordable care act.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"541040:543510\">It's all about.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"543510:549720\">Making sure that all of us and all our fellow citizens can count on the security of</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"549720:552770\">when we got sick.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"552770:559090\">work and dignity of every person in the knowledge and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"559090:563390\">The newly in short like marla deserve</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"563390:575630\">Working americans like that economic</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"575630:576130\">Survivors.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"577390:582650\">in our health care system.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"582650:589240\">All of which makes the constant politics around this troubling.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"589240:590150\">Like every major</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"590150:595940\">legislation from social security medicare not perfect.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"595940:599050\">We gotta make adjustments long away and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"599050:602420\">implementation especially with website.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"602420:609600\">problems we know something about.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"609600:614350\">And, yes, a times this reforms been contentious and confusing and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"614350:616860\">critics.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"616860:618720\">As part of what change looks like</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"618720:625890\">democracy changes heart fixing what's broken</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"625890:630280\">Overcoming skepticism and fear something new is fart lot of times</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"630280:635570\">folks would prefer that moving out of a governmental.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"635570:639240\">knowing what it's supposed to do.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"639240:644680\">It's working it's helping people from coast-to-coast.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"644680:645720\">All of which makes</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"645720:651880\">to which critics have gone to scare people undermine the</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"651880:656390\">or try to the offering any plausible alternative so hard</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"656390:662450\">understand I but I don't get it.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"662450:669720\">Where fish working so hard for people not to have health insurance?</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"669720:677720\">mad about the idea of well-traveled health insurance.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"677720:684060\">Many of the tall tales I've been told about this long have been debunk.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"684060:688040\">There are still no doubt</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"688040:691790\">Armageddon have not right.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"691790:695810\">Instead this law is helping millions of americans.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"695810:704200\">And, the coming years it will help millions more.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"704200:711140\">I will always work with anyone who's willing to make the work even better.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"711140:738510\">the debate over repealing as well as over the affordable care act and they're fun.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"738510:746770\">Section</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"746770:748370\">Above and those who</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"748370:753220\">entire political agenda on repealing it.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"753220:758920\">Hapticks countrywide should go back to being</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"758920:760510\">They should explain why and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"760510:767370\">his family should go back to paying thousands and thousands of dollars more.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"767370:773760\">They've got explain what doesn't deserve to feel like she's got you.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"773760:777180\">explain why we should go back to the seniors pay more</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"777180:783350\">for the prescriptions or women have to pay more than meant for comic.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"783350:788100\">Actividades one with pre-existing conditions were out a routinely tonight</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"788100:792800\">the economic security of health insurance because that's exactly what would happen if we</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"792800:800270\">repealed as well millions of people who now health insurance would not happen.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"800270:806150\">Seniors gotten on a prescription drugs have to pay more.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"806150:808670\">Young people were on the parents plan.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"808670:815310\">suddenly not health insurance.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"815310:818420\">You know, I'm in the history of not kind.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"818420:824640\">There's those ones and I americans are basically economic secured.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"824640:831650\">Nobody remembers well those standing wave america's progress warping.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"831650:833560\">That's what the affordable care act represents.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"834720:841440\">Is messy been sometimes has been sometimes progress?</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"841440:845550\">Is making sure that we are not the only advanced country</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"845550:851490\">Doesn't make sure everybody?</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"851490:854980\">That's thanks in part like nancy pelosi and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"854980:859550\">victor urban and all the members of congress who are here today we could not have done</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"859550:876920\">a without them and they should be proud of what they've done it can be thought of what</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"876920:883120\">And, it's also thanks to often unheralded work account less</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"883120:886700\">tirelessly to pass this law.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"886700:891440\">And, organ I've like crazy these past few months to help their fellow citizens just</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"891440:897840\">get the information they needed to get up.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"897840:902930\">That's why we're here today that's why seven point one million folks</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"902930:907310\">at help interest goes people got the word up.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"907310:910960\">And, megahertz so we can have.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"910960:914860\">Billions of dollars of.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"914860:919450\">You know, commercials like some</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"919450:923820\">Well, what we was look for yourself?</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"923820:927420\">See if it's good for your family.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"927420:930940\">A whole lot of people decided it was.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"930940:934800\">So, I want to thank everybody who worked so hard.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"934800:937370\">To make sure that.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"937370:941240\">We arrived at this point today.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"941240:944660\">I want I want to make sure everybody understands a in the months.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"945690:953160\">Years ahead I guarantee you we additional challenges implementing missile.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"953160:956970\">There will be they's one website stumbles</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"956970:960230\">so press just</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"960230:965170\">watch it anticipate there will be some moment when the</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"965170:972620\">websites down and I know be on all your front-page is going to happen won't be</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"972620:978360\">There will be part of the law that still need to be improved.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"978360:981980\">If we can stop refunding all political battle gridlocked</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"983250:987890\">we could actually make the work even better for everybody and work</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"987890:998150\">about the one that's, you know, north.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"998150:1003490\">But, today should remind us that bengal we set for ourselves.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1003490:1008370\">That no american should goal without</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1008370:1013840\">No, family should be bankrupt because somebody in family gets</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1013840:1020100\">Because no parent should have to be worried about whether they can afford treatment.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1020100:1023330\">Because they're worried that they don't want to.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1023330:1027940\">After children.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1027940:1030510\">The idea that everybody in this country can</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1030510:1037560\">get decent healthcare that well-lived achievable.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1037560:1038980\">of us have the courage</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1038980:1044429\">and the wisdom to keep working not against one another.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1044429:1048949\">Not that scary each other for one another and</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1048949:1052859\">we'll just make progress on healthcare make progress and all the other work</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1052859:1057850\">remains new opportunity for everybody who works for.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1057850:1066170\">Make this country that we love lives up to enticed</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1066170:1067740\">That's what.</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1067740:1070450\">All the day's acaam as long as I'm president going</a>",
-"<a href=\"#\" confidence=\"0\" rel=\"1070450:1075410\">to be about that's what we're going to be working towards thank you very much everybody got</a>"
+The monthly city.
+Six months ago today.
+A big part of the affordable care act kicked in
+as healthcare dot gov and state insurance marketplace is white-white.
+Millions of americans finally had the same chance the
+quality affordable health care.
+And, the peace of mind comes everybody else.
+Last night the first open enrollment period under this law
+canyoneering and despite several lost weeks out of the
+because the problems with website.
+Seven-point-one
+million americans have now signed up for five hhh.
+Plan through the marketplaces.
+Showroom.
+Driven more botswana so anybody who was line because you
+demand over the past few days can still go back and finish
+Seven-point-one million.
+That's on top of the more than three million young adults
+insurance under this law by staying other families point.
+That's on top of the millions
+gain access through medicaid expansion and the children's health insurance program.
+Making
+affordable coverage available to all americans including
+with pre-existing conditions until now unimportant
+both for the small.
+In the first six months we've taken a big step forward.
+And, just as importantly this law is bringing greater security to
+americans who already have coverage.
+Because the affordable care act hundred-million americans free preventive care like
+contraceptive care under existing points.
+Because of this long nearly eight million seniors
+almost ten billion dollars on their medicine because we
+a gaping hole in
+prescription drug plan were closing the donut hole.
+And, because of this law a whole lot of
+families won't be driven into bankruptcy my a serious illness because the affordable care act from
+mans your insurance replacing dollar limits on the they provide.
+These are all benefits that have been taking place.
+For a whole lot of families out there who don't realize.
+Neighbor benefits.
+But, the bottom line under this
+The share of americans with insurance is up and the growth of
+costs is down and that's good for middle class and that's good
+I don't mean that all the problems health-care have been solved rep.
+Premiums are still rising for families who have insurance what do you
+through your employer or you on your own that's been through every
+year for decades but so far.
+Both premiums have risen more slowly since the affordable care act
+past than anytime in the past fifty years.
+It's also true that despite this
+million americans are uncovered in part because
+governors in some states for political reasons have deliberately
+refused to expand coverage to under this wall.
+We're work on that.
+Will work to get more americans covered with each passing year?
+And, remains
+true that you'll still after changer coverage if you graduate from college
+return twenty six-years-old remover switch jobs or havoc trial.
+Just like you did before the affordable care act was passed.
+You-can now botha healthcare dot gov and use
+year-around when circumstances in your life change.
+So, now the affordable care act and completely fixed broken health care system.
+As long as made our health care system a lot better.
+Well, that that's.
+And, told because of this millions of our fellow citizens
+nova economic security of health insurance when just a few years ago.
+And, that's something to be prada.
+Regardless your politics
+feelings about me or your feelings about this law.
+That's something that's good for our economy that's good for country.
+There's no good reason to go back.
+give you a sense of what this changes
+for million of our fellow americans just give you examples.
+From beach california always make sure covers family
+private market by pre-existing medical conditions
+was over thirty thousand dollars.
+The affordable care act and change that.
+See if you have a pre-existing condition like being a cancer survivor
+suffer chronic pain from a tough job or
+even if you've just been charged more for being a woman.
+You can no longer be charts more than anybody else.
+So, this your the casey families premiums will
+pap from over thirty thousand dollars to undermine thousand-dollars.
+And, I know that's because
+These savings almost offset the cost of
+daughters first-year in college I'm a big believer in
+this legislation additives rules a lot of complexity in frankly fear from my
+life please keep fighting for the aca.
+in the bartender
+nola pennsylvania I think most adventurewear bartender that's
+usually doesn't oper health care.
+For years.
+went uninsured or under
+often getting some healthcare tyra local planter.
+November she bought a plan or marketplace.
+In january and illness center,
+center the hospital and because plan covered
+she won of otherwise been able to afford.
+doctor discovered that she also had ovarian cancer and gave her a chance to meet us.
+So, she wrote me a letter to she said.
+It's going to be along top to kill this cancer.
+I can walk that knowing insurance isn't an issue I won't be refused
+care I hope to send a follow-up letter and a few months saying I'm free and clear on
+this disease but until then I know I will be fighting just as you
+have been.
+Fighting for my wife is working american
+And, after her first one was under new insurance plan.
+Marla marine from fort collins colorado shared with me what meant to her.
+After using my
+insurance for the first-time you probably heard my sigh of relief from white house.
+I felt like a human being again.
+I felt that I had value.
+That's what the affordable care act.
+It's all about.
+Making sure that all of us and all our fellow citizens can count on the security of
+when we got sick.
+work and dignity of every person in the knowledge and
+The newly in short like marla deserve
+Working americans like that economic
+Survivors.
+in our health care system.
+All of which makes the constant politics around this troubling.
+Like every major
+legislation from social security medicare not perfect.
+We gotta make adjustments long away and
+implementation especially with website.
+problems we know something about.
+And, yes, a times this reforms been contentious and confusing and
+critics.
+As part of what change looks like
+democracy changes heart fixing what's broken
+Overcoming skepticism and fear something new is fart lot of times
+folks would prefer that moving out of a governmental.
+knowing what it's supposed to do.
+It's working it's helping people from coast-to-coast.
+All of which makes
+to which critics have gone to scare people undermine the
+or try to the offering any plausible alternative so hard
+understand I but I don't get it.
+Where fish working so hard for people not to have health insurance?
+mad about the idea of well-traveled health insurance.
+Many of the tall tales I've been told about this long have been debunk.
+There are still no doubt
+Armageddon have not right.
+Instead this law is helping millions of americans.
+And, the coming years it will help millions more.
+I will always work with anyone who's willing to make the work even better.
+the debate over repealing as well as over the affordable care act and they're fun.
+Section
+Above and those who
+entire political agenda on repealing it.
+Hapticks countrywide should go back to being
+They should explain why and
+his family should go back to paying thousands and thousands of dollars more.
+They've got explain what doesn't deserve to feel like she's got you.
+explain why we should go back to the seniors pay more
+for the prescriptions or women have to pay more than meant for comic.
+Actividades one with pre-existing conditions were out a routinely tonight
+the economic security of health insurance because that's exactly what would happen if we
+repealed as well millions of people who now health insurance would not happen.
+Seniors gotten on a prescription drugs have to pay more.
+Young people were on the parents plan.
+suddenly not health insurance.
+You know, I'm in the history of not kind.
+There's those ones and I americans are basically economic secured.
+Nobody remembers well those standing wave america's progress warping.
+That's what the affordable care act represents.
+Is messy been sometimes has been sometimes progress?
+Is making sure that we are not the only advanced country
+Doesn't make sure everybody?
+That's thanks in part like nancy pelosi and
+victor urban and all the members of congress who are here today we could not have done
+a without them and they should be proud of what they've done it can be thought of what
+And, it's also thanks to often unheralded work account less
+tirelessly to pass this law.
+And, organ I've like crazy these past few months to help their fellow citizens just
+get the information they needed to get up.
+That's why we're here today that's why seven point one million folks
+at help interest goes people got the word up.
+And, megahertz so we can have.
+Billions of dollars of.
+You know, commercials like some
+Well, what we was look for yourself?
+See if it's good for your family.
+A whole lot of people decided it was.
+So, I want to thank everybody who worked so hard.
+To make sure that.
+We arrived at this point today.
+I want I want to make sure everybody understands a in the months.
+Years ahead I guarantee you we additional challenges implementing missile.
+There will be they's one website stumbles
+so press just
+watch it anticipate there will be some moment when the
+websites down and I know be on all your front-page is going to happen won't be
+There will be part of the law that still need to be improved.
+If we can stop refunding all political battle gridlocked
+we could actually make the work even better for everybody and work
+about the one that's, you know, north.
+But, today should remind us that bengal we set for ourselves.
+That no american should goal without
+No, family should be bankrupt because somebody in family gets
+Because no parent should have to be worried about whether they can afford treatment.
+Because they're worried that they don't want to.
+After children.
+The idea that everybody in this country can
+get decent healthcare that well-lived achievable.
+of us have the courage
+and the wisdom to keep working not against one another.
+Not that scary each other for one another and
+we'll just make progress on healthcare make progress and all the other work
+remains new opportunity for everybody who works for.
+Make this country that we love lives up to enticed
+That's what.
+All the day's acaam as long as I'm president going
+to be about that's what we're going to be working towards thank you very much everybody got
